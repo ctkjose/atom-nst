@@ -1,4 +1,4 @@
-# nst package
+# Symbol and Mark Tree View for the Atom Editor
 
 A Tree-View for source code symbols and marks inspired by the Source Tree in KomodoEDIT and [KomodoIDE](https://www.activestate.com/products/komodo-ide/).
 
@@ -9,6 +9,22 @@ More useful (at least to me!) than similar packages like [symbols-tree-view](htt
 
 ![A screenshot of your package](https://raw.githubusercontent.com/ctkjose/atom-nst/master/screenshoot.png)
 
+
+
+## Marks ##
+Marks are special comments supported in JS and PHP.
+
+```
+//#TODO TAG_HERE
+//#TODO A long explanation...
+```
+
+```
+//#MARK TAG_HERE
+//#MARK:OBJ MY_FAKE_CLASS
+//#MARK:FN MY_FAKE_FUNCTION
+//#MARK:CONFIG USER_DEFAULTS
+```
 
 ## TO DO
 
