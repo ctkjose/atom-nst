@@ -9,7 +9,7 @@
   "activationCommands": {
     "atom-workspace": "nst:toggle"
   },
-  "repository": "https://github.com/atom/nst",
+  "repository": "https://github.com/ctkjose/atom-nst",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

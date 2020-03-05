@@ -7,7 +7,7 @@ This is the initial work learning how to extend Atom. It has support for PHP, JS
 More useful (at least to me!) than similar packages like [symbols-tree-view](https://atom.io/packages/symbols-tree-view) and [symbols-view](http://github.com/atom/symbols-view).
 
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+![A screenshot of your package](https://raw.githubusercontent.com/ctkjose/atom-nst/master/screenshoot.png)
 
 
 ## TO DO
