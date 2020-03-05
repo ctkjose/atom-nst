@@ -33,3 +33,7 @@ This package is meant to be light so finding symbols and tags is done using rege
 Move the configuration of markers/tags outside the package.
 
 Separate lang/mode definitions from nst-parser.js to make it easier for people to modify them.
+
+## ExponentialWorks
+
+This package is sponsored by [ExponentialWorks](https://exponentialworks.com).
