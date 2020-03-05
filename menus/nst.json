@@ -1,0 +1,19 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle nst",
+        "command": "nst:toggle"
+      }
+    ]
+  },
+  "menu": [
+	{
+	  "label": "View", "submenu": [ {"label": "Toggle Symbols", "command": "nst:toggle"}]
+	},
+    {
+      "label": "Packages",
+      "submenu": [ {"label": "nst", "submenu": [{"label": "Toggle", "command": "nst:toggle"}]}]
+    }
+  ]
+}
