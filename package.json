@@ -1,10 +1,17 @@
 {
   "name": "nst",
   "main": "./lib/nst",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Symbol Tree",
   "keywords": [
-	"symbols","nst","tree","tagbar","taglist","treeview","php","css"
+    "symbols",
+    "nst",
+    "tree",
+    "tagbar",
+    "taglist",
+    "treeview",
+    "php",
+    "css"
   ],
   "activationCommands": {
     "atom-workspace": "nst:toggle"
@@ -14,6 +21,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
