@@ -26,6 +26,25 @@ Marks are special comments supported in JS and PHP.
 //#MARK:CONFIG USER_DEFAULTS
 ```
 
+You can skip or hide symbols from a section of code using:
+```
+//#MARK:IGNORE-START
+var a = function(){ ... } //this will not be presented as a symbol
+//#MARK:IGNORE-END
+```
+
+You can also set a list of symbols to be ignored.
+```
+//#MARK:IGNORE a1,openScope
+
+var a1 = function(){...}; //will be ignored
+function openScope(){...}; //will also be ignored
+
+var a1 = function(){...}; //this one will not be ignored since
+```
+
+The `//#MARK:IGNORE` rule takes a list of symbols name that will be ignored. After this pragma is set the first symbol found with that name is ignored. Note this pragma has nothing to do with your code and is not bounded by the scope in which you put it in your code.
+
 ## TO DO
 
 This package is meant to be light so finding symbols and tags is done using regex (see nst-parser.js for configuration) (no ast, or code-intel). In that respect it doesnt support all types of syntax you may find specially in JS, so it makes some assumptions at what patterns represent key symbols, in many cases with JS it follows my personal style.
