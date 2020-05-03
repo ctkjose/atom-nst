@@ -9,7 +9,9 @@ More useful (at least to me!) than similar packages like [symbols-tree-view](htt
 
 ![A screenshot of your package](https://raw.githubusercontent.com/ctkjose/atom-nst/master/screenshoot.png)
 
+## Updates ##
 
+Fixed error with block comments and better support for other block styles.
 
 ## Marks ##
 Marks are special comments supported in JS and PHP.
