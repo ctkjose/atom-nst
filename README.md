@@ -11,6 +11,8 @@ More useful (at least to me!) than similar packages like [symbols-tree-view](htt
 
 ## Updates ##
 
+More improvements for JavaScript and PHP.
+
 Fixed error with block comments and better support for other block styles.
 
 ## Marks ##
