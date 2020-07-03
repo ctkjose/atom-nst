@@ -1,7 +1,7 @@
 {
 	"name": "nst",
 	"main": "./lib/nst",
-	"version": "0.4.0",
+	"version": "0.5.0",
 	"description": "Symbol Tree",
 	"keywords": [
 		"symbols",
@@ -22,7 +22,7 @@
 	"repository": "https://github.com/ctkjose/atom-nst",
 	"license": "MIT",
 	"engines": {
-	"atom": ">=1.0.0 <2.0.0"
+		"atom": ">=1.0.0 <2.0.0"
 	},
 	"dependencies": {}
-	}
+}
