@@ -13,7 +13,7 @@
 	},
     {
       "label": "Packages",
-      "submenu": [ {"label": "nst", "submenu": [{"label": "Toggle", "command": "nst:toggle"}]}]
+      "submenu": [ {"label": "nst", "submenu": [{"label": "Toggle Symbols", "command": "nst:toggle"}]}]
     }
   ]
 }

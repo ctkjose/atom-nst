@@ -11,7 +11,7 @@ More useful (at least to me!) than similar packages like [symbols-tree-view](htt
 
 ## Updates ##
 
-More improvements for JavaScript and PHP.
+More improvements for JavaScript and PHP. Support for less and some support for ES6 classes. NST now uses Atoms Docks for a nice native experience.
 
 Fixed error with block comments and better support for other block styles.
 
