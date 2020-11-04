@@ -11,6 +11,11 @@ More useful (at least to me!) than similar packages like [symbols-tree-view](htt
 
 ## Updates ##
 
+### Release 0.8 ###
+
+Better support for namespaces in PHP.
+
+### Release 0.7 ###
 PHP grammar is no longer getting trashed.
 
 Added a state per document to fix issues trashing the symbol table.
@@ -18,6 +23,9 @@ Added a state per document to fix issues trashing the symbol table.
 More improvements for JavaScript and PHP. Support for less and some support for ES6 classes. NST now uses Atoms Docks for a nice native experience.
 
 Fixed error with block comments and better support for other block styles.
+
+
+# Features #
 
 ## Marks ##
 Marks are special comments supported in JS and PHP.
