@@ -11,6 +11,10 @@ More useful (at least to me!) than similar packages like [symbols-tree-view](htt
 
 ## Updates ##
 
+### Release 0.9 ###
+
+Fixes for comments with pragmas.
+
 ### Release 0.8 ###
 
 Better support for namespaces in PHP.
